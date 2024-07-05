@@ -1,6 +1,6 @@
 # SECRETO 🔒
 # Capa
-<img width="435" alt="secreto" src="https://github.com/LUIZ-SEIXEIRO/Projeto-Oracle/assets/113383806/25845a78-3528-4721-97c5-63921fea84f9">
+<img width="422" alt="Screenshot_1" src="https://github.com/LUIZ-SEIXEIRO/Projeto-Oracle/assets/113383806/e7c85157-f715-4d4c-95fa-b348dd6a8ee5">
 
 ![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO)
 ![GitHub forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPOSITORIO)
