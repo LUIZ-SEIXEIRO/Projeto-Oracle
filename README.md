@@ -1,4 +1,6 @@
 # SECRETO 🔒
+# Capa
+![image](https://github.com/LUIZ-SEIXEIRO/Projeto-Oracle/assets/113383806/6ecc564a-ea18-43c3-8658-11ffa4587759)
 
 ![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO)
 ![GitHub forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPOSITORIO)
