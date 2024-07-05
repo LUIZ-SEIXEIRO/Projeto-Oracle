@@ -1,7 +1,5 @@
 # SECRETO 🔒
 
-![Capa do Projeto](https://via.placeholder.com/800x400.png?text=Imagem+de+Capa+do+Projeto)
-
 ![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO)
 ![GitHub forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPOSITORIO)
 ![GitHub issues](https://img.shields.io/github/issues/SEU_USUARIO/SEU_REPOSITORIO)
