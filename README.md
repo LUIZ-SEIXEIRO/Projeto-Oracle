@@ -16,7 +16,7 @@ Este projeto é uma aplicação web simples que permite a criptografia e descrip
 1. Clone o repositório:
 
 sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/LUIZ-SEIXEIRO/Projeto-Oracle
 
 
 2. Navegue até o diretório do projeto:
